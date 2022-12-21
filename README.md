@@ -10,7 +10,7 @@ FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
 ALEXIS GRIJALVA
 
-INFORME 4
+INFORME 5
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
@@ -19,11 +19,17 @@ FECHA: 23/12/2022
 1. OBJETIVOS
 
 •	Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito 
+
 •	Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito 
+
 •	 Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+
 •	Explicar los principios de un campo magnético 
+
 •	Explicar los principios del electromagnetismo 
+
 •	Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+
 •	Explicar la histéresis magnética
 
 2. MARCO TEÓRICO
