@@ -34,6 +34,24 @@ FECHA: 23/12/2022
 
 2. MARCO TEÓRICO
 
+CAPITULO 9
+
+ANÁLISIS DE RAMAS, LAZOS Y NODOS
+
+
+<p align="center">
+<image src= "https://user-images.githubusercontent.com/117738904/209195857-500d7bef-59bf-4202-97b1-99154c5789a8.png"/>
+</p>
+
+CAPITULO 10
+
+MAGNETISMO Y ELECTROMAGNETISMO
+
+<p align="center">
+<image src= "https://user-images.githubusercontent.com/117738904/209195369-9fc06e58-df78-49ed-8817-b72fc64aabf4.png"/>
+</p>
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPÍTULO 9
@@ -207,7 +225,7 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 4. VIDEO
 
-
+https://youtu.be/wXL4KqQmPok
 
 5.  CONCLUSIONES
 
