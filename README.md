@@ -205,6 +205,17 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 ![image](https://user-images.githubusercontent.com/117738904/208972668-19f70912-ab9a-4704-aa51-a18b2b169492.png)
 
 
+4. VIDEO
+
+
+
+5.  CONCLUSIONES
+
+
+
+6. BIBLIOGRAFIA
+
+
 
 
 
