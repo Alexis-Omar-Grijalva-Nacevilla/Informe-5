@@ -234,6 +234,12 @@ https://youtu.be/wXL4KqQmPok
 6. BIBLIOGRAFIA
 
 
+Superpro. (08 de 06 de 2021). Recuperado el 23 de 12 de 2022, de https://www.superprof.es/blog/magnetismo-electromagnetismo-definiciones/#:~:text=El%20electromagnetismo%20est%C3%A1%20presente%20en,y%20repulsi%C3%B3n%20de%20diferentes%20objetos.
+
+Carakenio73. (05 de 11 de 2019). Recuperado el 23 de 12 de 202, de https://dademuch.com/2019/11/05/metodo-de-mallas-analisis-de-circuitos/
+
+
+
 
 
 
