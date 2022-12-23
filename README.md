@@ -231,6 +231,14 @@ https://youtu.be/wXL4KqQmPok
 
 
 
+
+•	Es  importante conocer y entender los métodos de resolución de circuitos eléctricos ya que de esa manera podemos llegar a encontrar la solución requerida en cada ejercicio y de esta manera poder seguir avanzando con los siguientes temas de la materia.
+
+•	Entender cómo está funcionando un circuito eléctrico y saber que método aplicar según nuestra conveniencia a nos ahorra tiempo al momento de solucionar los ejercicios planteados.
+
+
+•	La inducción electromagnética es uno de los temas más importantes ya que tiene diferentes aplicaciones que nos servirán en nuestra vida estudiantil y  profesional 
+
 6. BIBLIOGRAFIA
 
 
