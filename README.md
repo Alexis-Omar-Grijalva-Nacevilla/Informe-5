@@ -222,8 +222,41 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 ![image](https://user-images.githubusercontent.com/117738904/208972668-19f70912-ab9a-4704-aa51-a18b2b169492.png)
 
+CAPITULO 16
 
-4. VIDEO
+PARTE 1: CIRCUITOS EN SERIE 
+
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie 
+
+![image](https://user-images.githubusercontent.com/117738904/219080386-231ee55b-d570-4593-b01a-14be7f74edfd.png)
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117738904/219080537-3b0b0c55-55ce-4081-b5c6-2416b8f5b676.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219080624-b6998056-211f-4df0-b2f1-6fd56fa66e42.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219080687-ca6b7a9d-0de9-4906-906b-973a0930ec3e.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219080785-364d9b8a-9c48-45d5-97ec-7ee82bdf4b96.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219081025-1f862858-af97-4d0e-9f99-6353a094ac53.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117738904/219081239-8baf8853-794c-47b6-8807-107807da5188.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219081349-f6e2249d-40bf-4574-b39c-bf61fbdff8f0.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219081410-9b1d7f0f-dc7a-48a1-9845-8b94f447711b.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219082912-b2925f99-9f8b-4950-861e-9e54394835e0.png)
+
+![image](https://user-images.githubusercontent.com/117738904/219083185-263d3585-57b8-46fe-bf72-33437d60a0fb.png)
+
+
+
+4. VÍDEO
 
 https://youtu.be/wXL4KqQmPok
 
